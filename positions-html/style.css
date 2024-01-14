@@ -1,0 +1,16 @@
+.container{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    position: relative;
+    top: 200px;
+    left: 300px;
+}
+.container2{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}
